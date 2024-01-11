@@ -1,6 +1,4 @@
-# Module 10 Challenge
-
-## Cluster Cryptocurrency Data with K-means and Optimize Results using Primary Component Analysis (PCA)
+# Cluster Cryptocurrency Data with K-means and Optimize Results using Primary Component Analysis (PCA)
 
 In this challenge we import and prepare a given data set of many cryptocurrencies for analysis.  Once completed we implement K-means testing and PCA to determine the best value for *k* based on visual plots of the given data after it has been analyzed and cleaned for comparison.
 
